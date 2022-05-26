@@ -1,0 +1,2 @@
+javac ActiveCookie.java Token.java TokenPair.java
+java ActiveCookie $1 $2 $3
